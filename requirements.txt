@@ -1,0 +1,9 @@
+Flask==0.12.2
+gunicorn==19.7.1
+flask_api==1.0
+httplib2==0.10.3
+emoji
+oauth2client
+google-cloud
+psutil
+cachetools
