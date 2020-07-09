@@ -1,7 +1,7 @@
 Flask==0.12.2
 gunicorn==19.7.1
 flask_api==1.0
-httplib2==0.10.3
+httplib2==0.18.0
 emoji
 oauth2client
 google-cloud
