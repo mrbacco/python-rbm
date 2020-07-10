@@ -48,7 +48,7 @@ def callback():
   # load the request body string into a JSON
   request_body = json.loads(stream_str)
 
-  if 'clientToken' in request_body:
+  if '6VFCHBYODA0FI2Y3' in request_body:
     return json.dumps({'secret': request_body['secret']}), 200
 
   # obtain the data field from the message field of
